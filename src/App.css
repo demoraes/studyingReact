@@ -48,3 +48,8 @@ nav  div {
 nav  div i {
   margin-left: 8px;
 }
+
+.postlist {
+  width: 700px;
+  margin: 0 auto 20px;
+}
